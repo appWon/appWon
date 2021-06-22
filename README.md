@@ -17,4 +17,4 @@
   <img src="https://img.shields.io/badge/StyledComponent-F570DF?style=flat-square&logo=styled-components&logoColor=white"/>&nbsp;
 <p>
 
-  [![HadongLee's github stats](https://github-readme-stats.vercel.app/api?username=appWon&show_icons=true&theme=dracula)](https://github.com/appWon/github-readme-stats)
+ [![appWon github stats](https://github-readme-stats.vercel.app/api?username=appWon&show_icons=true&theme=solarized-light)](https://github.com/appWon/github-readme-stats)
