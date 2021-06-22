@@ -5,7 +5,7 @@
   
 <h3 align="center">:joystick:기술 스택:joystick:</h3>
 
-<p align="center" style="margin-top:30px">
+<p align="center" style="margin-top: 35px;">
   <img src="https://img.shields.io/badge/JavaScript-F9FF33?style=flat-square&logo=Javascript&logoColor=black"/>&nbsp;
   <img src="https://img.shields.io/badge/React-33FFF7?style=flat-square&logo=react&logoColor=black"/>&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-3766AB?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp;
