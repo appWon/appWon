@@ -17,8 +17,9 @@
   <img src="https://img.shields.io/badge/StyledComponent-F570DF?style=flat-square&logo=styled-components&logoColor=white"/>&nbsp;
 <p>
 
+<br/>
 
-
+<center>
   ![appWon github stats](https://github-readme-stats.vercel.app/api?username=appWon&show_icons=true&theme=flag-india)
- 
+</center>
 
