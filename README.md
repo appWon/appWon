@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?text=Jawon&type=Rounded&color=#F4BBBB&height=200)
+![header](https://capsule-render.vercel.app/api?text=Jawon&type=Rounded&color=auto&height=200)
 
 <br/>
   
