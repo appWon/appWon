@@ -16,3 +16,5 @@
   <img src="https://img.shields.io/badge/CSS-053AA8?style=flat-square&logo=css3&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/StyledComponent-F570DF?style=flat-square&logo=styled-components&logoColor=white"/>&nbsp;
 <p>
+
+  [![HadongLee's github stats](https://github-readme-stats.vercel.app/api?username=metleeha&show_icons=true&theme=dracula)](https://github.com/metleeha/github-readme-stats)
