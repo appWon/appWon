@@ -18,6 +18,6 @@
 <p>
 
 <p align="center">
-  <a src="https://github-readme-stats.vercel.app/api?username=appWon&show_icons=true&theme=flag-india)](https://github.com/appWon/github-readme-stats"/>
- [![appWon github stats](https://github-readme-stats.vercel.app/api?username=appWon&show_icons=true&theme=flag-india)](https://github.com/appWon/github-readme-stats)
+  <a img url="https://github-readme-stats.vercel.app/api?username=appWon&show_icons=true&theme=flag-india)](https://github.com/appWon/github-readme-stats"/>
+<!--  [![appWon github stats](https://github-readme-stats.vercel.app/api?username=appWon&show_icons=true&theme=flag-india)](https://github.com/appWon/github-readme-stats) -->
 </
