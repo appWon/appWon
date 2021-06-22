@@ -1,6 +1,6 @@
-<p>
+
 ![header](https://capsule-render.vercel.app/api?text=Jawon&type=Rounded&color=auto&height=200)
-</p>
+
 <br/>
   
 <p align="center"> :joystick:기술 스택:joystick:</p>
