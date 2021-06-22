@@ -3,7 +3,7 @@
 
 <br/>
   
-<h3 align="center">:joystick:기술 스택:joystick:</h3>
+<h3 align="center" stlye="margin-bottom:35px">:joystick:기술 스택:joystick:</h3>
 
 <p align="center" style="margin-top: 35px;">
   <img src="https://img.shields.io/badge/JavaScript-F9FF33?style=flat-square&logo=Javascript&logoColor=black"/>&nbsp;
